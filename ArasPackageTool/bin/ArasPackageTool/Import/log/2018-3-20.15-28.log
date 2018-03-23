@@ -1,0 +1,10 @@
+          ****ErrorMessage****
+faultstring:    at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at Aras.Tools.SolutionUpgrade.CItemHelper._getDBList(String url)
+faultdetail:Unable to connect to the remote server
+faultcode: -98
+          *******************
+
+
+

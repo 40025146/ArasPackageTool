@@ -1,0 +1,53 @@
+Login errors 
+          ****ErrorMessage****
+faultstring: Failed login to Innovator; original error: SOAP-ENV:Server Database Name Or Database Description Is Wrong.
+(Check your request and server configuration file) Database Name Or Database Description Is Wrong.
+(Check your request and server configuration file)
+faultdetail:Failed login to Innovator; original error: SOAP-ENV:Server Database Name Or Database Description Is Wrong.
+(Check your request and server configuration file) Database Name Or Database Description Is Wrong.
+(Check your request and server configuration file) Unable to login.
+faultcode: -100
+          *******************
+
+
+
+Login successfully
+Login :admin
+Server   :http://192.168.0.182/plm
+Database :TLTC-Panda
+         ****Export tltc.cad.integration****
+start of execution : 3/21/2018 1:34:48 PM
+Item id :5446D50A449E4EEE948494C1E98BFA58  keyed_name : MessageIntegration   type : ItemType successfully exported
+Item id :CB5C7DEB95F749709209FDB110717281  keyed_name : CADIntegration_Setting   type : ItemType successfully exported
+Item id :B9C124FE9E274DE1AB4A6101E63BC92C  keyed_name : MessageIntegration   type : Form successfully exported
+Item id :40ACC3B536E84DAEB8CC0AA4FC7F5DA5  keyed_name : CADIntegration_Bug   type : ItemType successfully exported
+Item id :87EAF5B1405F40BE9D21BEF6568F25E0  keyed_name : CAD_Search_Properties   type : RelationshipType successfully exported
+Item id :07E49AC0013D42C198BB8B00C1BB6DF0  keyed_name : AutoCAD_PlotSetting   type : RelationshipType successfully exported
+Item id :A18BC1D5F1384B84B872CF3A3958DB9A  keyed_name : CAD_Mapping_Properties   type : Form successfully exported
+Item id :244F311181464236B3C888945B2A1E58  keyed_name : CAD_Result_Properties   type : Form successfully exported
+Item id :5B30D563331144039287FB01F4097ABF  keyed_name : AutoCAD_PlotSetting   type : Form successfully exported
+Item id :7FF2384A47504929B93EF77C9E1ECE70  keyed_name : CAD_Result_Properties   type : RelationshipType successfully exported
+Item id :194278DEEB7E4A4BAF258A6A6101A45F  keyed_name : CADIntegration_Bug   type : Form successfully exported
+Item id :CD3C3055FCF04F9B8672C42E90531B86  keyed_name : tltc_db_setting   type : Variable successfully exported
+Item id :5CDC101423E04493B311BA4506531F9C  keyed_name : CAD_Mapping_Properties   type : RelationshipType successfully exported
+Item id :CCAB6AC74C414A4189089A6CC82467BF  keyed_name : CADIntegration_Setting   type : Form successfully exported
+Item id :F60782C6BAEB4A37A75714FFE8D014D2  keyed_name : CAD_Search_Properties   type : Form successfully exported
+end of execution : 3/21/2018 1:35:08 PM
+         ****Export tltc.cad.integration****
+start of execution : 3/21/2018 1:56:59 PM
+Item id :5446D50A449E4EEE948494C1E98BFA58  keyed_name : MessageIntegration   type : ItemType successfully exported
+Item id :CB5C7DEB95F749709209FDB110717281  keyed_name : CADIntegration_Setting   type : ItemType successfully exported
+Item id :B9C124FE9E274DE1AB4A6101E63BC92C  keyed_name : MessageIntegration   type : Form successfully exported
+Item id :40ACC3B536E84DAEB8CC0AA4FC7F5DA5  keyed_name : CADIntegration_Bug   type : ItemType successfully exported
+Item id :87EAF5B1405F40BE9D21BEF6568F25E0  keyed_name : CAD_Search_Properties   type : RelationshipType successfully exported
+Item id :07E49AC0013D42C198BB8B00C1BB6DF0  keyed_name : AutoCAD_PlotSetting   type : RelationshipType successfully exported
+Item id :A18BC1D5F1384B84B872CF3A3958DB9A  keyed_name : CAD_Mapping_Properties   type : Form successfully exported
+Item id :244F311181464236B3C888945B2A1E58  keyed_name : CAD_Result_Properties   type : Form successfully exported
+Item id :5B30D563331144039287FB01F4097ABF  keyed_name : AutoCAD_PlotSetting   type : Form successfully exported
+Item id :7FF2384A47504929B93EF77C9E1ECE70  keyed_name : CAD_Result_Properties   type : RelationshipType successfully exported
+Item id :194278DEEB7E4A4BAF258A6A6101A45F  keyed_name : CADIntegration_Bug   type : Form successfully exported
+Item id :CD3C3055FCF04F9B8672C42E90531B86  keyed_name : tltc_db_setting   type : Variable successfully exported
+Item id :5CDC101423E04493B311BA4506531F9C  keyed_name : CAD_Mapping_Properties   type : RelationshipType successfully exported
+Item id :CCAB6AC74C414A4189089A6CC82467BF  keyed_name : CADIntegration_Setting   type : Form successfully exported
+Item id :F60782C6BAEB4A37A75714FFE8D014D2  keyed_name : CAD_Search_Properties   type : Form successfully exported
+end of execution : 3/21/2018 1:57:14 PM
